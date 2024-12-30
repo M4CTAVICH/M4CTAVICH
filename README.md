@@ -16,7 +16,6 @@ I am Computer Science Student in USTHB currently learning various contents but m
 <img align="left" alt="java" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 -------------------------------------------------------------------------------
 <br>
-
 <img src="Screenshot 2024-12-30 192127.png" alt="Presentation Image" width="600"/>
 
 
