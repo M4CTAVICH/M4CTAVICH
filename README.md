@@ -1,8 +1,8 @@
-## Hello 👋
+## Hello there 👋
 
 **Computer Science student**
 
-I am Computer Science Student in USTHB currently learning various contents but more focused on software development.
+I am Messaoud a Computer Science Student in USTHB currently learning various contents but more focused on software development.
 
 ### Languages & tools
 
