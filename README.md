@@ -67,6 +67,9 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <a href="https://mactalog.me" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit My Portfolio"/>
 </a>
+<br>
+
+<img src="Screenshot From 2025-07-16 19-01-12.png" alt="Portfolio Preview" width="800"/>
 
 ### 📫 Connect With Me
 
