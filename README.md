@@ -65,6 +65,7 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 ### 🌍 My Website
 
 Check out my portfolio: [mactalog.me](https://mactalog.me)
+<img src="Screenshot From 2025-07-16 19-01-12.png" alt="Portfolio Preview" width="800"/>
 
 ### 📫 Connect With Me
 
