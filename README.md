@@ -75,4 +75,4 @@ Check out my portfolio: [mactalog.me](https://mactalog.me)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4CTAVICH&show_icons=true&theme=radical)
 
-<img src="miraak.jpg" alt="Portfolio Preview" width="800"/>
+<img src="Screenshot 2024-12-30 192127.png" alt="Portfolio Preview" width="800"/>
