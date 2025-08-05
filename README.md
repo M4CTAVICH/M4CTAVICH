@@ -17,6 +17,7 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
 <br><br>
 
@@ -29,6 +30,7 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
@@ -58,27 +60,24 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 ### 🌐 Languages
 
 - Arabic (Native)
+- English (Fluent)
 - French (Fluent)
 - Spanish (Proficient)
-- English (Fluent)
 
 ### 🌍 My Website
 
-**Click the image below to visit my portfolio website:**
+**Click the image below to visit my professional website:**
 
 <br>
 
 <a href="https://mactalog.me" target="_blank">
-  <img src="Screenshot From 2025-07-16 19-01-12.png" alt="Portfolio Preview" width="800"/>
+  <img src="Screenshot From 2025-08-05 16-32-30.png" alt="Portfolio Preview" width="800"/>
 </a>
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messaoud-chakib-ouaret-3973b7274/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4CTAVICH)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4CTAVICH&show_icons=true&theme=radical)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mactalog.dev/)
 
 <img src="Screenshot 2024-12-30 192127.png" alt="Portfolio Preview" width="800"/>
