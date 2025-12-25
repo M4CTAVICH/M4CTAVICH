@@ -44,8 +44,8 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/prisma/docs/main/src/images/logo.svg"/>
-<img align="left" alt="TypeORM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo.svg"/>
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://logo.svgcdn.com/logos/prisma.svg"/>
+<img align="left" alt="TypeORM" width="30px" style="padding-right:10px;" src="https://logo.svgcdn.com/logos/typeorm.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 
 <br><br>
