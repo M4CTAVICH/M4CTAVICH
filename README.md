@@ -18,6 +18,7 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg"/>
 
 <br><br>
 
@@ -43,12 +44,15 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-plain.svg"/>
+<img align="left" alt="TypeORM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeorm/typeorm-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 
 <br><br>
 
 ### 🚀 Projects
 
-- **Full-Stack SAAS Solutions** - Developed multiple end-to-end SAAS applications using React, Next.js, and various backend technologies (Node.js, Express, Go Echo). Implemented secure authentication flows, database integration, and responsive UI designs.
+- **Full-Stack SAAS Solutions** - Developed multiple end-to-end SAAS applications using React, Next.js, and various backend technologies (Node.js, Express, Go Echo, nest). Implemented secure authentication flows, database integration, and responsive UI designs.
 
 - **Networking Projects** - Created applications leveraging Pion framework for WebRTC communication, focusing on real-time data exchange and peer-to-peer connection management.
 
@@ -62,7 +66,7 @@ I am a Computer Science Student at USTHB with expertise in full-stack developmen
 - Arabic (Native)
 - English (Fluent)
 - French (Fluent)
-- Spanish (Proficient)
+- Spanish (conversational)
 
 ### 🌍 My Website
 
